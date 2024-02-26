@@ -1,0 +1,7 @@
+GIT IMPORTANT
+
+C:\Users\Fernando\.gitconfig
+
+
+#GIT IGNORE
+ignorar ficheros
