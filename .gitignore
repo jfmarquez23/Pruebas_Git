@@ -1,1 +1,10 @@
 **/.DS_Store
+
+##Eliminar Ramas
+git branch -d "nombre de la rama"
+
+##Listar ramas
+git branch
+
+##Todos los comandos de GIT (Casi todos XD)
+https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
